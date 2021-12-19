@@ -19,4 +19,9 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
-"# qb-adminmenu-for-esx" 
+# qb-adminmenu-for-esx
+
+That resource is converted to ESX Framework, just download and import to your server
+Config admin at server.cfg
+EXAMPLE: add_principal identifier.steam:000000000000000 group.admin
+replace steam:000000000000000 to your identifier
